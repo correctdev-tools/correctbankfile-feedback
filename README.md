@@ -9,4 +9,4 @@ or use the [Bankfile Validation API](https://correctbankfile.com/api/) for progr
 
 ### 🧩 Postman
 Test the API instantly on Postman:  
-[Open CorrectBankfile API Collection](https://www.postman.com/supply-geoscientist-6447329-6774535/correctdev/collection/cupyspf/correctics-api?action=share&creator=49086764)
+[Open CorrectBankfile API Collection](https://www.postman.com/supply-geoscientist-6447329-6774535/correctdev/collection/535pwqy/correctbankfile-api)
